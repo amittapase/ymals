@@ -1,0 +1,15 @@
+agent job  ci 
+  build image 
+  push an image 
+  copy files to 
+  publish artifact drop
+  
+
+
+  replace token in deployment.azure.ymal
+  cd :kubectl apply
+       
+
+   /*   kubectl config view --raw
+  
+  
